@@ -182,3 +182,17 @@ body{
         opacity: 1;
     }
 }
+
+@media (max-width: 780px) {
+    .container{
+        width: 314px;
+    }
+
+    .search-box input{
+        width: 100%;
+    }
+
+    .search-box button{
+        margin-right: -4%;
+    }
+}
