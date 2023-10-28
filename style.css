@@ -194,5 +194,6 @@ body{
 
     .search-box button{
         margin-right: -4%;
+        width: 42px;
     }
 }
