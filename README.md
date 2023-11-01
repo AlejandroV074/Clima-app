@@ -27,6 +27,8 @@ To use the Weather App, follow these steps:
 
 - `index.html`: The HTML file defines the structure of the web page, including input fields, weather details, and error messages. It also links to the JavaScript file and includes the Font Awesome icon library.
 
+- `style.css`: The CSS file provides the styling for the application. It sets the layout, fonts, colors, and animations to create an appealing user interface.
+
 ## Dependencies
 
 - [Font Awesome](https://fontawesome.com/): This project uses Font Awesome for icons.
